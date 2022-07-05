@@ -40,3 +40,17 @@ ____________________________
 ![notepad++_eFm5Nh9X9n](https://user-images.githubusercontent.com/105708734/177324113-6093b91e-cb25-4a99-b436-10016844c6fc.png)
 
 __________________________
+
+## EP_4
+`Method: GET`                      
+`EndPoint: /object_info_2`                   
+`request url params: 
+ name: str
+ age: int
+ salary: int`
+
+![notepad++_TaZV63CUfn](https://user-images.githubusercontent.com/105708734/177324580-b161908b-931b-4622-bfb1-554210472d9d.png)
+
+__________________________
+
+ 
