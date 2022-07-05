@@ -53,4 +53,38 @@ __________________________
 
 __________________________
 
+## EP_5
+`Method: GET`                     
+`EndPoint: /object_info_3`                   
+`request url params: 
+ name: str
+ age: int
+ salary: int`
+
+![notepad++_imbeT0vQxV](https://user-images.githubusercontent.com/105708734/177325072-cb0fbe59-28f8-403a-a140-4ccfb8c1fe54.png)
+
+__________________________
+
+## EP_6
+`Method: GET`                         
+`EndPoint: /object_info_4`                       
+`request url params: 
+ name: str
+ age: int
+ salary: int`
  
+ ![notepad++_yDRO77fDTR](https://user-images.githubusercontent.com/105708734/177325518-39abd152-bd5e-4230-8137-4949109d67ab.png)
+
+_______________________________
+
+## EP_7
+`Method: POST`                      
+`EndPoint: /user_info_2`                           
+`request form data: 
+ name: str
+ age: int
+ salary: int`
+
+![notepad++_QyuPg0J4ye](https://user-images.githubusercontent.com/105708734/177325842-23cc8fb9-b74e-43fd-aa83-c914c13824f8.png)
+
+
