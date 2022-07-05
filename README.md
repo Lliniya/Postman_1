@@ -13,4 +13,18 @@ ________________
  name: str
  age: int`   
  
- ![notepad++_y5UnFCPXEW](https://user-images.githubusercontent.com/105708734/177323357-258d307d-73bf-40cf-aac4-b78c48b18b0f.png)
+ 
+
+_________________________
+
+## EP_2
+`Method: POST`                   
+`EndPoint: /user_info_3`                                    
+`request form data: 
+ name: str
+ age: int
+ salary: int`                        
+
+![notepad++_y5UnFCPXEW](https://user-images.githubusercontent.com/105708734/177323357-258d307d-73bf-40cf-aac4-b78c48b18b0f.png)
+
+____________________________
