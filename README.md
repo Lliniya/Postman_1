@@ -13,7 +13,7 @@ ________________
  name: str,
  age: int`   
  
-![notepad++_HBt6SltHDd](https://user-images.githubusercontent.com/105708734/178240664-98832dd6-ff1f-4521-9251-00ae7c9381a1.png)
+![KS55MGFiay](https://user-images.githubusercontent.com/105708734/178240821-31a6d358-fd34-410d-84fb-c63eea5e73c3.png)
 
 _________________________
 
