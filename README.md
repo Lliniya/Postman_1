@@ -1,5 +1,4 @@
-# Postman_HW_1
-## Создать запросы в Postman
+# Создание запросов в Postman
 
 `Protocol: http`  
 `IP: 162.55.220.72`  
